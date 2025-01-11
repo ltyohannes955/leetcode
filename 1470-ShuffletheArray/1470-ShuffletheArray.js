@@ -1,0 +1,1 @@
+const num1 = nums[j] & 1023
