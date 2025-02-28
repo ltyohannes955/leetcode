@@ -1,0 +1,1 @@
+s = "abcdefghi", numRows = 4
